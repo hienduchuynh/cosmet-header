@@ -1,27 +1,5 @@
 {
   "sections": {
-    "456a20f1-e1e6-4bc1-b212-d31e36c52b28": {
-      "type": "announcement-bar",
-      "blocks": {
-        "c40410bb-daae-4d8b-a206-e38b948a7b44": {
-          "type": "announcement",
-          "settings": {
-            "text": "<p>10% OFF+ FREE JEWELRY BOX ON ORDERS ABOVE $200<\/p>",
-            "content_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "c40410bb-daae-4d8b-a206-e38b948a7b44"
-      ],
-      "settings": {
-        "bg_colors": "#2b2b2b",
-        "text_colors": "#ffffff",
-        "full_width": false,
-        "container": false,
-        "mod_class": ""
-      }
-    },
     "74ef7de1-0419-46ce-aad7-bdd5bd61498a": {
       "type": "slideshow",
       "blocks": {
@@ -541,7 +519,6 @@
     }
   },
   "order": [
-    "456a20f1-e1e6-4bc1-b212-d31e36c52b28",
     "74ef7de1-0419-46ce-aad7-bdd5bd61498a",
     "502eac10-f950-461b-a014-b0c013cfb42e",
     "d1616f07-db79-4c2d-b39a-920e6603aba5",
