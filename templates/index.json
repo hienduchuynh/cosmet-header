@@ -226,10 +226,11 @@
     "98cf22dd-b2a0-4512-911b-784a91761100": {
       "type": "image-with-text",
       "blocks": {
-        "16883d94-9cc8-40f6-acb8-e5d69157b05e": {
-          "type": "title_decor",
+        "5b29a016-a528-4405-b771-bef245ee59c3": {
+          "type": "features",
           "settings": {
-            "title_decor": "shopify:\/\/shop_images\/decor-3.png"
+            "text": "",
+            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg"
           }
         },
         "c71faeab-0e09-432a-82ed-b89d59be7576": {
@@ -237,7 +238,7 @@
           "settings": {
             "caption": "New collection",
             "text_style": "subtitle",
-            "text_size": "small"
+            "text_size": "large"
           }
         },
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0": {
@@ -245,13 +246,6 @@
           "settings": {
             "heading": "The missing piece",
             "heading_size": "h1"
-          }
-        },
-        "5b29a016-a528-4405-b771-bef245ee59c3": {
-          "type": "features",
-          "settings": {
-            "text": "",
-            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg"
           }
         },
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2": {
@@ -263,10 +257,9 @@
         }
       },
       "block_order": [
-        "16883d94-9cc8-40f6-acb8-e5d69157b05e",
+        "5b29a016-a528-4405-b771-bef245ee59c3",
         "c71faeab-0e09-432a-82ed-b89d59be7576",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0",
-        "5b29a016-a528-4405-b771-bef245ee59c3",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2"
       ],
       "settings": {
@@ -276,7 +269,7 @@
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
