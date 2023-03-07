@@ -283,6 +283,7 @@
         "title": "See what’s trending right now",
         "heading_size": "h1",
         "title_style": "02",
+        "title_decor": "shopify:\/\/shop_images\/decor-3.png",
         "description_style": "subtitle",
         "description": "<p>Top sale on this week<\/p>",
         "show_description": false,
