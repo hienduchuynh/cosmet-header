@@ -156,6 +156,9 @@
         "template--18022992183571__502eac10-f950-461b-a014-b0c013cfb42e-1677482149c1c4212a-2",
         "7217c132-0f93-4e0a-9deb-9265bc064003"
       ],
+      "custom_css": [
+        ".multicolumn-list h3 {font-weight: 300;}"
+      ],
       "settings": {
         "title": "Cosmet natural",
         "heading_size": "h1",
