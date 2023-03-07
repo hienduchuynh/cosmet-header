@@ -74,7 +74,7 @@
           "settings": {
             "image_position": "top",
             "title": "No artificial anything",
-            "title_size": "h5",
+            "title_size": "h3",
             "meta": "",
             "icon": "box",
             "icon_position": "center",
@@ -94,7 +94,7 @@
           "settings": {
             "image_position": "top",
             "title": "Sustainably sourced",
-            "title_size": "h5",
+            "title_size": "h3",
             "meta": "",
             "icon": "leaf",
             "icon_position": "center",
@@ -114,7 +114,7 @@
           "settings": {
             "image_position": "top",
             "title": "Made in the USA",
-            "title_size": "h5",
+            "title_size": "h3",
             "meta": "",
             "icon": "truck",
             "icon_position": "center",
@@ -134,7 +134,7 @@
           "settings": {
             "image_position": "top",
             "title": "Happiness guaranteed",
-            "title_size": "h5",
+            "title_size": "h3",
             "meta": "",
             "icon": "heart",
             "icon_position": "center",
