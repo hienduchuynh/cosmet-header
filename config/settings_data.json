@@ -130,7 +130,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "<p>SPECIAL PROMO: FREE ONLINE VISIT. START ED VISIT<\/p>",
+              "text": "<p>Free shipping on all U.S. orders $50+<\/p>",
               "content_alignment": "center"
             }
           }
@@ -139,9 +139,9 @@
           "announcement-bar-0"
         ],
         "settings": {
-          "bg_colors": "#5e8c5e",
-          "text_colors": "#ffffff",
-          "full_width": false,
+          "bg_colors": "#ffffff",
+          "text_colors": "#2b2b2b",
+          "full_width": true,
           "container": false,
           "mod_class": ""
         }
@@ -509,10 +509,10 @@
         "type": "header-04",
         "settings": {
           "color_scheme": "background-1",
-          "layout_type": "logo-menu-icons",
+          "layout_type": "menu-logo-icons",
           "logo": "shopify:\/\/shop_images\/cmLogo.png",
           "logo_text": "Cosmet",
-          "logo_font": "abril_fatface_n4",
+          "logo_font": "space_mono_n7",
           "logo_width": 130,
           "menu": "main-menu",
           "menu_type_desktop": "mega",
