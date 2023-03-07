@@ -447,3 +447,8 @@
 .home-02-new-collection .image-with-text__content .button:hover span {
   border-bottom: 1px solid transparent;
 }
+
+/* Home 3 */
+.home-03-new-collection .features-intro .feature-item {
+	justify-content: center;
+}

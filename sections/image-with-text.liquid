@@ -100,7 +100,9 @@
                 width="{{ block.settings.image.width }}"
                 height="{{ block.settings.image.height }}"
               >
+              {%- if block.settings.text != blank -%}
               <h5>{{ block.settings.text | escape }}</h5>
+              {%- endif -%}
             </li>
           {%- endcase -%}
         {%- endfor -%}
