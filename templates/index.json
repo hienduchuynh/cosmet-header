@@ -189,143 +189,19 @@
         "mod_class": "multicolumn-list-home3"
       }
     },
-    "d1616f07-db79-4c2d-b39a-920e6603aba5": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--18022992183571__d1616f07-db79-4c2d-b39a-920e6603aba5-16775674588641eb39-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cat-keratin.png",
-            "image_position": "top",
-            "title": "Keratin",
-            "title_size": "h5",
-            "meta": "",
-            "icon": "none",
-            "icon_position": "left",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/erectule-dysfunction",
-            "link_style": "link",
-            "padding_left": 0,
-            "padding_right": 0,
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "image_spacing": 32
-          }
-        },
-        "template--18022992183571__d1616f07-db79-4c2d-b39a-920e6603aba5-16775674588641eb39-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Erectule_dysfunction.png",
-            "image_position": "top",
-            "title": "Erectule dysfunction",
-            "title_size": "h5",
-            "meta": "",
-            "icon": "none",
-            "icon_position": "left",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_style": "link",
-            "padding_left": 0,
-            "padding_right": 0,
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "image_spacing": 32
-          }
-        },
-        "template--18022992183571__d1616f07-db79-4c2d-b39a-920e6603aba5-16775674588641eb39-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Candles.png",
-            "image_position": "top",
-            "title": "Candles",
-            "title_size": "h5",
-            "meta": "",
-            "icon": "none",
-            "icon_position": "left",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_style": "link",
-            "padding_left": 0,
-            "padding_right": 0,
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "image_spacing": 32
-          }
-        },
-        "aba3ca92-bd0b-45f2-8332-ac661b06cf9e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Difusers.png",
-            "image_position": "top",
-            "title": "Difusers",
-            "title_size": "h5",
-            "meta": "",
-            "icon": "none",
-            "icon_position": "left",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "link_style": "link",
-            "padding_left": 0,
-            "padding_right": 0,
-            "padding_top": 0,
-            "padding_bottom": 0,
-            "image_spacing": 32
-          }
-        }
-      },
-      "block_order": [
-        "template--18022992183571__d1616f07-db79-4c2d-b39a-920e6603aba5-16775674588641eb39-0",
-        "template--18022992183571__d1616f07-db79-4c2d-b39a-920e6603aba5-16775674588641eb39-1",
-        "template--18022992183571__d1616f07-db79-4c2d-b39a-920e6603aba5-16775674588641eb39-2",
-        "aba3ca92-bd0b-45f2-8332-ac661b06cf9e"
-      ],
-      "settings": {
-        "title": "Shop by categories",
-        "heading_size": "h1",
-        "title_style": "02",
-        "title_decor": "shopify:\/\/shop_images\/decor-3.png",
-        "description_style": "subtitle",
-        "description": "<p>Our categories<\/p>",
-        "layout": "grid",
-        "image_width": "full",
-        "image_ratio": "circle",
-        "columns_desktop": 4,
-        "row_alignment": "top",
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_tablet": "2",
-        "swipe_on_tablet": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 128,
-        "padding_bottom": 128,
-        "border_top_thickness": 0,
-        "border_top_opacity": 0,
-        "border_bottom_thickness": 0,
-        "border_bottom_opacity": 0,
-        "mod_class": "shop-by-categories"
-      }
-    },
     "7afcf70d-4f53-4da2-9322-a5c118360a18": {
       "type": "featured-collection",
       "settings": {
-        "title": "See what’s trending right now",
+        "title": "Gentle skincare for every day",
         "heading_size": "h1",
         "title_style": "02",
         "title_decor": "shopify:\/\/shop_images\/decor-3.png",
         "description_style": "subtitle",
-        "description": "<p>Top sale on this week<\/p>",
+        "description": "<p>Hand-Picked by Us<\/p>",
         "show_description": false,
         "collection": "latest-products",
         "show_card_collection": false,
-        "products_to_show": 10,
+        "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": false,
@@ -525,7 +401,6 @@
   "order": [
     "74ef7de1-0419-46ce-aad7-bdd5bd61498a",
     "502eac10-f950-461b-a014-b0c013cfb42e",
-    "d1616f07-db79-4c2d-b39a-920e6603aba5",
     "7afcf70d-4f53-4da2-9322-a5c118360a18",
     "98cf22dd-b2a0-4512-911b-784a91761100",
     "85cd9c3d-f856-4ee8-8c9e-ff15a822578c",
