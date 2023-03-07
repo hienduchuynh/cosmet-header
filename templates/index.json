@@ -157,11 +157,12 @@
         "7217c132-0f93-4e0a-9deb-9265bc064003"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h3",
-        "title_style": "01",
-        "description_style": "body",
-        "description": "",
+        "title": "Cosmet natural",
+        "heading_size": "h1",
+        "title_style": "02",
+        "title_decor": "shopify:\/\/shop_images\/decor-3.png",
+        "description_style": "subtitle",
+        "description": "<p>Top sale on this week<\/p>",
         "layout": "grid",
         "image_width": "full",
         "image_ratio": "adapt",
