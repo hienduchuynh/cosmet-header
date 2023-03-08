@@ -230,7 +230,7 @@
           "type": "features",
           "settings": {
             "text": "",
-            "image": "shopify:\/\/shop_images\/The_missing_piece.jpg"
+            "image": "shopify:\/\/shop_images\/Image_1_4571d538-dac7-4f8b-8132-0b2e1fa633be.jpg"
           }
         },
         "c71faeab-0e09-432a-82ed-b89d59be7576": {
@@ -264,7 +264,7 @@
       ],
       "settings": {
         "class_suffix": "home-03-new-collection",
-        "image": "shopify:\/\/shop_images\/New_collection.jpg",
+        "image": "shopify:\/\/shop_images\/Image_2.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
