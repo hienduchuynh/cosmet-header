@@ -254,13 +254,29 @@
             "button_label": "Shop now",
             "button_link": "shopify:\/\/collections\/all"
           }
+        },
+        "8f208bbf-f5c5-42d4-bf67-b0ff13de0e72": {
+          "type": "features",
+          "settings": {
+            "text": "",
+            "image": "shopify:\/\/shop_images\/Vector.png"
+          }
+        },
+        "51c347cc-1cb0-406b-b596-d802cdec4023": {
+          "type": "features",
+          "settings": {
+            "text": "",
+            "image": "shopify:\/\/shop_images\/2-01_1.png"
+          }
         }
       },
       "block_order": [
         "5b29a016-a528-4405-b771-bef245ee59c3",
         "c71faeab-0e09-432a-82ed-b89d59be7576",
         "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-0",
-        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2"
+        "template--17347501523219__9c5800dd-9764-413a-b02d-e6f2f45f67f5-167221148174312811-2",
+        "8f208bbf-f5c5-42d4-bf67-b0ff13de0e72",
+        "51c347cc-1cb0-406b-b596-d802cdec4023"
       ],
       "settings": {
         "class_suffix": "home-03-new-collection",
