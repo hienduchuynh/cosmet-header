@@ -329,6 +329,54 @@
         "padding_bottom": 128,
         "mod_class": ""
       }
+    },
+    "928ad5db-ccd5-4ff7-8933-55bf452d5a7d": {
+      "type": "ja-countdown",
+      "blocks": {
+        "template--17932126322963__928ad5db-ccd5-4ff7-8933-55bf452d5a7d-16783293385da461a2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image countdown",
+            "heading_size": "hxl"
+          }
+        },
+        "template--17932126322963__928ad5db-ccd5-4ff7-8933-55bf452d5a7d-16783293385da461a2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give customers details about the countdown image(s) or content on the template.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17932126322963__928ad5db-ccd5-4ff7-8933-55bf452d5a7d-16783293385da461a2-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17932126322963__928ad5db-ccd5-4ff7-8933-55bf452d5a7d-16783293385da461a2-0",
+        "template--17932126322963__928ad5db-ccd5-4ff7-8933-55bf452d5a7d-16783293385da461a2-1",
+        "template--17932126322963__928ad5db-ccd5-4ff7-8933-55bf452d5a7d-16783293385da461a2-2"
+      ],
+      "settings": {
+        "mod_class": "",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -336,6 +384,7 @@
     "502eac10-f950-461b-a014-b0c013cfb42e",
     "7afcf70d-4f53-4da2-9322-a5c118360a18",
     "98cf22dd-b2a0-4512-911b-784a91761100",
-    "70143abd-b6f5-46cb-8f8c-285a49ede70a"
+    "70143abd-b6f5-46cb-8f8c-285a49ede70a",
+    "928ad5db-ccd5-4ff7-8933-55bf452d5a7d"
   ]
 }
