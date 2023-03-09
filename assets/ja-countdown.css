@@ -546,26 +546,39 @@
   }
 }
 
-/* Landing Page */
-.landing-page {
-  border-bottom: 2px solid rgba(var(--color-base-outline-button-labels)) !important;
+#countdown-timer .timer-display {
+  display: flex;
+  column-gap: 1.6rem;
 }
 
-.landing-page .countdown__box.content-container {
-  border: 0;
-  padding: 0;
+#countdown-timer .timer-block__num {
+  display: block;
+  font-weight: 300;
+  font-size: 3.6rem;
+  line-height: 125%;
 }
 
-.landing-page .countdown__box .countdown__heading {
-  margin: 0;
+#countdown-timer .timer-block__unit {
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 1.4rem;
+  line-height: 125%;
+  color: rgba(43, 43, 43, 0.75);
 }
 
-.landing-page .countdown__buttons {
-  margin-top: calc(var(--grid-desktop-vertical-spacing));
+#countdown-timer .timer-block {
+  text-align: center;
+  position: relative;
 }
 
-@media screen and (min-width: 750px) {
-  .landing-page .subtitle span {
-    font-size: 2.4rem;
-  }
+#countdown-timer .timer-block + .timer-block {
+  padding-left: 1.6rem;
+}
+
+#countdown-timer .timer-block + .timer-block .timer-block-inner:before {
+  content: ":";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -12px;
 }
