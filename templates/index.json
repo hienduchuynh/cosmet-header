@@ -589,7 +589,7 @@
         "title_decor": "shopify:\/\/shop_images\/decor-3.png",
         "description_style": "subtitle",
         "description": "<p>Must-have pieces selected<\/p>",
-        "layout": "grid--gapless",
+        "layout": "grid",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
