@@ -304,7 +304,7 @@
 	white-space: nowrap;
 }
 
-.multicolumn-card__info .icon {
+.multicolumn-card__info .multicolumn-card-title-wrap .icon {
 	color: rgba(var(--color-base-accent-1));
 	fill: rgba(var(--color-base-accent-1));
 	width: 5.6rem;
