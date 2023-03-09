@@ -548,11 +548,11 @@
             "link_label": "",
             "link": "",
             "link_style": "link",
-            "padding_left": 32,
-            "padding_right": 32,
-            "padding_top": 48,
-            "padding_bottom": 48,
-            "image_spacing": 25
+            "padding_left": 0,
+            "padding_right": 0,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "image_spacing": 32
           }
         },
         "template--17932126322963__317e3222-a6cb-4e30-b226-dcb8d699361c-16783540953d1e174d-2": {
