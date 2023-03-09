@@ -333,18 +333,18 @@
     "928ad5db-ccd5-4ff7-8933-55bf452d5a7d": {
       "type": "ja-countdown",
       "blocks": {
-        "42a3c366-d94b-4031-9f6a-f4646f309f18": {
-          "type": "heading",
-          "settings": {
-            "heading": "Save 20% Off soaps",
-            "heading_size": "h3"
-          }
-        },
-        "23459631-dc9a-4ef6-9477-7ba5effc553a": {
+        "b00991b1-c215-404f-82c2-5e599a78670a": {
           "type": "text",
           "settings": {
-            "text": "<p>This week only! Ends 9\/25.<\/p>",
-            "text_style": "h1"
+            "text": "<p>Save 20% Off soaps<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "d14b34ba-a90d-450d-b5fe-3659e4d60fe9": {
+          "type": "heading",
+          "settings": {
+            "heading": "This week only! Ends 9\/25.",
+            "heading_size": "h1"
           }
         },
         "template--17016615010579__b7d4689b-aa5d-4fbd-93cf-446d84d85100-16691955563a648ee6-2": {
@@ -360,8 +360,8 @@
         }
       },
       "block_order": [
-        "42a3c366-d94b-4031-9f6a-f4646f309f18",
-        "23459631-dc9a-4ef6-9477-7ba5effc553a",
+        "b00991b1-c215-404f-82c2-5e599a78670a",
+        "d14b34ba-a90d-450d-b5fe-3659e4d60fe9",
         "template--17016615010579__b7d4689b-aa5d-4fbd-93cf-446d84d85100-16691955563a648ee6-2"
       ],
       "settings": {
