@@ -84,7 +84,7 @@
          alt: section.settings.image_2.alt | escape }}
       </div>
     {%- endif -%}
-    <div class="countdown__content countdown__content--{{ section.settings.desktop_content_position }} {% if section.settings.show_text_box == false %} countdown--desktop-transparent{% endif %} page-width">
+    <div class="countdown__content countdown__content--{{ section.settings.desktop_content_position }} {% if section.settings.show_text_box == false %} countdown--desktop-transparent{% endif %} page-width page-width--narrow">
       <div class="countdown__box content-container content-container--full-width-mobile">
         {%- for block in section.blocks -%}
           {%- case block.type -%}
