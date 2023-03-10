@@ -534,4 +534,9 @@
 	.home-03-new-collection .image-with-text__content {
 		padding: 3.2rem;
 	}
+
+	.home-03-new-collection .features-intro .feature-item {
+		width: 100%;
+		max-width: 100%;
+	}
 }
