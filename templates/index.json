@@ -222,7 +222,7 @@
         "enable_quick_add": true,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 128,
+        "padding_top": 64,
         "padding_bottom": 128,
         "mod_class": "new-trending-collection"
       }
