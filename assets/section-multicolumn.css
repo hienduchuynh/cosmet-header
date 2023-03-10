@@ -282,6 +282,14 @@
 	margin-top: 1.5rem;
 }
 
+.multicolumn-card__info .link.link--text {
+	text-decoration: underline;
+}
+
+.multicolumn-card__info .link.link--text:hover {
+	color: rgba(var(--color-base-background-2));
+}
+
 .fashion-collection .multicolumn-card__info .link {
 	margin-top: 2.5rem;
 	text-transform: uppercase;
