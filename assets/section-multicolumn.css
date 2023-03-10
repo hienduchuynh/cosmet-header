@@ -628,3 +628,22 @@
 		border-right: 0;
 	}
 }
+
+
+/* Home 3 */
+.multicolumn-list-home3 .multicolumn-card__info .multicolumn-card-title-wrap .icon-wrap {
+	background-color: #5E8C5E;
+	color: rgba(255,255,255);
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	margin-bottom: 3.2rem;
+	margin-left: 0;
+	display: inline-block;
+}
+
+.multicolumn-list-home3 .multicolumn-card__info .multicolumn-card-title-wrap .icon-wrap .icon {
+	margin-bottom: 0;
+}

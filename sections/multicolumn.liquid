@@ -160,7 +160,9 @@
               >
                 {%- if block.settings.icon != 'none' -%}
                 <div class="multicolumn-card-title-wrap {{ block.settings.icon_position }}">
-                  {% render 'icon-accordion', icon: block.settings.icon %}
+                  <div class="icon-wrap">
+                    {% render 'icon-accordion', icon: block.settings.icon %}
+                  </div>
                   <div class="multicolumn-card-title-content-wrap">
                 {%- endif -%}
 
