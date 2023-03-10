@@ -513,6 +513,11 @@
 
 .home-03-new-collection .features-intro .feature-item.decor-2 {
 	position: absolute;
-	top: 17px;
-	right: -209px;
+	top: auto;
+	right: 0;
+}
+
+.home-03-new-collection .features-intro .feature-item.decor-2 > img {
+	position: absolute;
+	right: -100%;
 }
