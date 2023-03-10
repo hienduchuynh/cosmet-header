@@ -631,7 +631,7 @@
 
 
 /* Home 3 */
-.multicolumn-list-home3 .multicolumn-card__info .multicolumn-card-title-wrap .icon-wrap {
+.multicolumn-list-home3 .multicolumn-card__info .multicolumn-card-title-wrap.center .icon-wrap {
 	background-color: #5E8C5E;
 	color: rgba(255,255,255);
 	width: 120px;
@@ -641,9 +641,21 @@
 	line-height: 120px;
 	margin-bottom: 3.2rem;
 	margin-left: 0;
-	display: inline-block;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
 }
 
-.multicolumn-list-home3 .multicolumn-card__info .multicolumn-card-title-wrap .icon-wrap .icon {
+.multicolumn-list-home3 .multicolumn-card__info .multicolumn-card-title-wrap.center .icon-wrap .icon {
 	margin-bottom: 0;
+	color: rgba(255,255,255);
+	fill: rgba(255,255,255);
+}
+
+.multicolumn-list-home3 .multicolumn-card__info .multicolumn-card-title-wrap.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
 }
