@@ -478,6 +478,8 @@
 .home-03-new-collection .image-with-text__content .features-intro {
 	order: 1;
 	margin-bottom: 3.2rem;
+	justify-content: center;
+	margin-top: 0;
 }
 
 .home-03-new-collection .image-with-text__content .features-intro .feature-item > img {
@@ -520,4 +522,16 @@
 .home-03-new-collection .features-intro .feature-item.decor-2 > img {
 	position: absolute;
 	right: -100%;
+}
+
+@media screen and (max-width: 989px) {
+	.home-03-new-collection .image-with-text__media-item,
+	.home-03-new-collection .features-intro .feature-item.decor-1,
+	.home-03-new-collection .features-intro .feature-item.decor-2 {
+		display: none;
+	}
+
+	.home-03-new-collection .image-with-text__content {
+		padding: 3.2rem;
+	}
 }
