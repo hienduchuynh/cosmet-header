@@ -138,6 +138,11 @@
         endif
 
         assign columns_mobile = section.settings.columns_mobile
+        if products_to_display <= section.settings.columns_mobile
+          assign num_dot_mobile = 1
+        else
+          assign num_dot_mobile = products_to_display | minus: section.settings.columns_mobile | plus: 1
+        endif
       -%}
       {% if section.settings.show_card_collection %}
         <div class="product-grid-wrap product-grid-wrap--{{ section.settings.desktop_layout }}">

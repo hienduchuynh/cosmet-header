@@ -438,6 +438,10 @@
   }
 }
 
+.collection slider-component .slider-navigation {
+	margin: 0;
+}
+
 .collection slider-component .slider-buttons .slider-button--prev {
   left: 4.8rem;
 }

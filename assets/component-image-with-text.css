@@ -465,6 +465,12 @@
 	overflow: visible;
 }
 
+@media (max-width: 989px) {
+	.home-03-new-collection .image-with-text__content {
+		margin-bottom: 0;
+	}
+}
+
 .home-03-new-collection .image-with-text__content .image-with-text__text--caption {
 	order: 2;
 	margin-bottom: 0.8rem;
