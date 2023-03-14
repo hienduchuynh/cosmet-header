@@ -359,7 +359,7 @@ html.no-js .no-js-hidden {
 
 @media screen and (min-width: 990px) {
 	.page-width--narrow {
-		max-width: 65rem;
+		max-width: 72.6rem;
 		padding: 0;
 	}
 	.page-width-desktop {
@@ -379,7 +379,7 @@ html.no-js .no-js-hidden {
 		padding: 0 4.8rem;
 	}
 	.page-width--narrow {
-		max-width: 72.6rem;
+		max-width: var(--page-width);
 		padding: 0 4.8rem;
 	}
 	.desktop-large-up-hide {
