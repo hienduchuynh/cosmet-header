@@ -211,7 +211,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
-        "slider_visual": "dots",
+        "slider_visual": "nav",
         "color_scheme": "background-1",
         "desktop_layout": "left",
         "image_ratio": "square",
