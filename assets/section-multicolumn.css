@@ -314,10 +314,10 @@
 }
 
 .multicolumn-card__info .multicolumn-card-title-wrap .icon {
-	color: rgba(var(--color-base-accent-1));
-	fill: rgba(var(--color-base-accent-1));
-	width: 5.6rem;
-	height: 5.6rem;
+	color: rgba(var(--color-base-accent-2));
+	fill: rgba(var(--color-base-accent-2));
+	width: 4.8rem;
+	height: 4.8rem;
 }
 
 .multicolumn-2.background-primary .multicolumn-card {
@@ -407,7 +407,7 @@
 }
 
 .multicolumn-card-title-wrap.left .icon {
-	margin-right: 2.8rem;
+	margin-right: 4rem;
 }
 
 .multicolumn-card-title-wrap.right .icon {
