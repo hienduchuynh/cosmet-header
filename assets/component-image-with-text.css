@@ -554,6 +554,7 @@
 .home-03-new-collection .features-intro .feature-item.decor-2 > img {
 	position: absolute;
 	right: -100%;
+	top: 0;
 }
 
 @media screen and (max-width: 989px) {
